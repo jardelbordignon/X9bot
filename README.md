@@ -1,4 +1,5 @@
-Parte 1 https://luiztools.com.br/x9-1
+- Parte 1 https://luiztools.com.br/x9-1
+- Parte 2 https://luiztools.com.br/x9-2
 
 *Códigos retornados da Binance*
 ---
@@ -35,3 +36,8 @@ Parte 1 https://luiztools.com.br/x9-1
 * D - Volume total da sessão
 * d - Volume total da sessão
 ---
+
+- Clonar o projeto
+- Configurar arquivo .env com parâmetros do bot telegram conforme aula 2
+- Instalar dependências -> yarn
+- Subir o servidor -> yarn dev
