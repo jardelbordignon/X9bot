@@ -17,6 +17,7 @@
     "express": "^4.17.1",
     "http-status-codes": "^2.1.4",
     "mongoose": "^6.0.13",
+    "telegraf": "^4.4.2",
     "ws": "^8.3.0"
   },
   "devDependencies": {
