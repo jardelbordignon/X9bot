@@ -37,13 +37,13 @@
 * d - Volume total da sessão
 ---
 
-- Clonar o projeto
-- Configurar arquivo .env com parâmetros do bot telegram conforme aula 2
-- Instalar dependências -> yarn
-- Subir o servidor -> yarn dev
-
-
 O RSI (Relative Strength Index) ou (Índice de Força Relativa) é um indicador de impulso utilizado na análise técnica que mede a magnitude das recentes mudanças de preços para avaliar condições de sobrecompra ou sobrevenda no preço de uma ação ou outro ativo. O RSI é exibido como um oscilador (um gráfico de linha que se move entre dois extremos) e pode ter uma leitura de 0 a 100.
 Um ativo geralmente é considerado sobrecomprado quando o RSI está acima de 70% e supervendido quando está abaixo de 30%
 
 A fórmula do RSI é 100 - 100/(1 + U/D) -> cem menos cem dividido por um mais a alta dividido pela baixa
+
+---
+- Clonar o projeto
+- Configurar arquivo .env com parâmetros do bot telegram conforme aula 2
+- Instalar dependências -> yarn
+- Subir o servidor -> yarn dev
