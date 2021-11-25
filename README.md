@@ -1,5 +1,6 @@
 - Parte 1 https://luiztools.com.br/x9-1
 - Parte 2 https://luiztools.com.br/x9-2
+- Parte 2 https://luiztools.com.br/x9-3
 
 *Códigos retornados da Binance*
 ---
